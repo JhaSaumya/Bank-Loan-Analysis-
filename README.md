@@ -5,9 +5,13 @@ This project showcases an advanced Power BI solution with SQL queries to extract
 KPIs (Key Performance Indicators):
 
 Total Loan Applications: 38.6K applications were processed, showing a Month-over-Month (MoM) growth of 2.7%. This indicates a steady increase in customer engagement with the bank's loan services.
+
 Total Funded Amount: $435.8M was successfully disbursed, with a significant MoM growth of 13.0%. This showcases the bank's increasing ability to meet customer financial needs.
+
 Total Amount Received: $473.1M, representing a MoM growth of 15.8%. This is a positive sign of efficient loan repayment and cash flow into the bank.
+
 Average Interest Rate: 12.0%, reflecting a slight Month-to-Date (MTD) fluctuation but generally consistent lending rates.
+
 Average Debt-to-Income (DTI) Ratio: 13.3%, providing an indication of borrowers' financial health.
 
 Good vs. Bad Loans:
