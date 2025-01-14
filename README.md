@@ -54,8 +54,13 @@ Granular Filtering:
 Filters allow users to drill down into specific categories, such as loan purpose, geographic location, or loan grades, enabling precision in decision-making.
 Highlights of the Dashboard:
 Comprehensive Metrics: The dashboard encapsulates overall performance and granular insights, making it valuable for stakeholders.
+
 Trend Analysis: Monthly trends help identify seasonal impacts and strategize resource allocation.
+
 Risk Identification: Metrics like bad loans and defaults guide the bank in refining credit policies.
+
 Customer Behavior Insights: Data on loan purpose and homeownership offer deep insights into borrower preferences, enabling targeted product offerings.
+
 Ease of Navigation: A structured layout with Summary, Overview, and Details pages ensures seamless user experience.
+
 Would you like me to focus further on improving specific sections or provide recommendations for enhancements?
