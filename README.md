@@ -68,3 +68,8 @@ Customer Behavior Insights: Data on loan purpose and homeownership offer deep in
 Ease of Navigation: A structured layout with Summary, Overview, and Details pages ensures seamless user experience.
 
 Would you like me to focus further on improving specific sections or provide recommendations for enhancements?
+
+
+# Link of the dashboard 
+https://app.powerbi.com/view?r=eyJrIjoiZmMxZDMwNTUtOTQzNC00NTBmLThmY2ItNWI3YTQxNmU3ZTg2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
