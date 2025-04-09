@@ -77,3 +77,8 @@ This dashboard empowers the bank to optimize loan offerings, improve financial h
 # Link of the dashboard 
 https://app.powerbi.com/view?r=eyJrIjoiZmMxZDMwNTUtOTQzNC00NTBmLThmY2ItNWI3YTQxNmU3ZTg2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
+# Link of explanation of the dashboard
+https://youtu.be/1iPE7AnXnGk?si=mQ44rLsdpK5HC2MR
+
+
+
